@@ -4,19 +4,27 @@
 
 > A full-stack AI-powered agricultural decision-support system integrating Machine Learning, Natural Language Processing, and Deep Learning to provide comprehensive crop recommendations and disease risk assessment.
 
-## Screenshots
+## 📸 Screenshots
 
-| Homepage                                                           | ML Crop Prediction                                            |
-| ------------------------------------------------------------------ | ------------------------------------------------------------- |
-| ![Homepage](./frontend/public/screenshots/screenshot_homepage.png) | ![ML Result](./frontend/public/screenshots/screenshot_ml.png) |
+### Homepage — Overview
 
-| NLP Disease Analysis                                            | CNN Leaf Image                                                  |
-| --------------------------------------------------------------- | --------------------------------------------------------------- |
-| ![NLP Result](./frontend/public/screenshots/screenshot_nlp.png) | ![CNN Result](./frontend/public/screenshots/screenshot_cnn.png) |
+![Homepage](assets/screenshot_homepage.png)
 
-### Full ARI Assessment Report — High Risk Detection
+### ML Results
 
-## ![ARI Full Report](./frontend/public/screenshots/screenshot_ari.png)
+![ML Results](assets/screenshot_ml.png)
+
+### NLP Results
+
+![NLP Results](assets/screenshot_nlp.png)
+
+### CNN Results
+
+![CNN Results](assets/screenshot_cnn.png)
+
+### ARI Full Report
+
+![ARI Full Report](assets/screenshot_ari.png)
 
 ## 📌 Table of Contents
 
@@ -250,12 +258,6 @@ npm run dev
 Frontend runs at `http://localhost:5173`
 
 ---
-
-## Deployment
-
-Use the deployment runbook for your final-prototype rollout:
-
-- [Render + Vercel Deployment Guide](docs/deployment-render-vercel.md)
 
 ---
 
