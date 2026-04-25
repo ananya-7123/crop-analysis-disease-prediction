@@ -7,24 +7,20 @@
 ## 📸 Screenshots
 
 ### Homepage — Overview
-
 ![Homepage](assets/screenshot_homepage.png)
 
 ### ML Results
-
 ![ML Results](assets/screenshot_ml.png)
 
 ### NLP Results
-
 ![NLP Results](assets/screenshot_nlp.png)
 
 ### CNN Results
-
 ![CNN Results](assets/screenshot_cnn.png)
 
 ### ARI Full Report
+![ARI Report](assets/screenshot_ari.png)
 
-![ARI Full Report](assets/screenshot_ari.png)
 
 ## 📌 Table of Contents
 
